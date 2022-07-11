@@ -49,6 +49,8 @@
                     goto Portal;
                 case 7:
                     OverloadedConstructor obj7 = new OverloadedConstructor();
+                    OverloadedConstructor obj7a = new OverloadedConstructor(10);
+                    OverloadedConstructor obj7b = new OverloadedConstructor(10,20);
 
                     goto Portal;
                 case 8:
@@ -68,7 +70,7 @@
                     break;
 
                 default:
-                    Console.WriteLine("Wrong Choise Try Again");
+                    Console.WriteLine("Wrong Choice Try Again");
                     goto Portal;
 
             }
