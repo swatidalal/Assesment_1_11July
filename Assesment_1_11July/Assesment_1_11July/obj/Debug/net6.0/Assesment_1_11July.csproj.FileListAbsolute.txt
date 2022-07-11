@@ -1,0 +1,15 @@
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.AssemblyInfoInputs.cache
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.AssemblyInfo.cs
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\bin\Debug\net6.0\Assesment_1_11July.exe
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\bin\Debug\net6.0\Assesment_1_11July.deps.json
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\bin\Debug\net6.0\Assesment_1_11July.runtimeconfig.json
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\bin\Debug\net6.0\Assesment_1_11July.dll
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\bin\Debug\net6.0\Assesment_1_11July.pdb
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.dll
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\refint\Assesment_1_11July.dll
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.pdb
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\Assesment_1_11July.genruntimeconfig.cache
+C:\Users\LENOVO\source\repos\Assesment_1_11July\Assesment_1_11July\obj\Debug\net6.0\ref\Assesment_1_11July.dll
