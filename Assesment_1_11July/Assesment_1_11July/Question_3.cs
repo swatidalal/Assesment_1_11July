@@ -10,14 +10,14 @@ namespace Assesment_1_11July
     {
         public void LargestNo()
         {
-            int a = 325;
+            int a = 900;
             int b = 750;
             int c = 478;
             if (a > b)
             {
                 if (a> c)
                 {
-                    Console.Write("Number one 325 is the largest!\n");
+                    Console.Write("Number one 900 is the largest!\n");
                 }
                 else
                 {

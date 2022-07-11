@@ -55,7 +55,7 @@
                     goto Portal;
                 case 8:
                     Question_8 obj8 = new Question_8();
-                    obj8.Add(20, 40);
+                    obj8.Add(15, 40);
                     obj8.Multiply(20, 4);
                     goto Portal;
                 case 9:

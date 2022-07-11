@@ -23,7 +23,8 @@ namespace Assesment_1_11July
         {
             var studentNames = students.Where(s => s.Age > 12 && s.Age < 20)
                               .Select(s => s);
-            studentNames.ToList().ForEach(s => Console.WriteLine("Student ID = " + s.ID + " Student Name = " + s.Name + " Student Age = " + s.Age));
+            studentNames.ToList().ForEach(s => Console.WriteLine
+            ("Student ID = " + s.ID + " Student Name = " + s.Name + " Student Age = " + s.Age));
         }
     }
 }
